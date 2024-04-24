@@ -1,0 +1,14 @@
+D:\Навчання\Третій курс\ОС\TaskComplete\TaskComplete\bin\Debug\net6.0\TaskComplete.exe
+D:\Навчання\Третій курс\ОС\TaskComplete\TaskComplete\bin\Debug\net6.0\TaskComplete.deps.json
+D:\Навчання\Третій курс\ОС\TaskComplete\TaskComplete\bin\Debug\net6.0\TaskComplete.runtimeconfig.json
+D:\Навчання\Третій курс\ОС\TaskComplete\TaskComplete\bin\Debug\net6.0\TaskComplete.dll
+D:\Навчання\Третій курс\ОС\TaskComplete\TaskComplete\bin\Debug\net6.0\TaskComplete.pdb
+D:\Навчання\Третій курс\ОС\TaskComplete\TaskComplete\obj\Debug\net6.0\TaskComplete.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\Третій курс\ОС\TaskComplete\TaskComplete\obj\Debug\net6.0\TaskComplete.AssemblyInfoInputs.cache
+D:\Навчання\Третій курс\ОС\TaskComplete\TaskComplete\obj\Debug\net6.0\TaskComplete.AssemblyInfo.cs
+D:\Навчання\Третій курс\ОС\TaskComplete\TaskComplete\obj\Debug\net6.0\TaskComplete.csproj.CoreCompileInputs.cache
+D:\Навчання\Третій курс\ОС\TaskComplete\TaskComplete\obj\Debug\net6.0\TaskComplete.dll
+D:\Навчання\Третій курс\ОС\TaskComplete\TaskComplete\obj\Debug\net6.0\refint\TaskComplete.dll
+D:\Навчання\Третій курс\ОС\TaskComplete\TaskComplete\obj\Debug\net6.0\TaskComplete.pdb
+D:\Навчання\Третій курс\ОС\TaskComplete\TaskComplete\obj\Debug\net6.0\TaskComplete.genruntimeconfig.cache
+D:\Навчання\Третій курс\ОС\TaskComplete\TaskComplete\obj\Debug\net6.0\ref\TaskComplete.dll

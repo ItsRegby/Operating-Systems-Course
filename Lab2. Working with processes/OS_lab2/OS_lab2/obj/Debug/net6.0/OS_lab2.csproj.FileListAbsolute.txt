@@ -1,0 +1,14 @@
+D:\Навчання\Третій курс\ОС\OS_lab2\OS_lab2\bin\Debug\net6.0\OS_lab2.exe
+D:\Навчання\Третій курс\ОС\OS_lab2\OS_lab2\bin\Debug\net6.0\OS_lab2.deps.json
+D:\Навчання\Третій курс\ОС\OS_lab2\OS_lab2\bin\Debug\net6.0\OS_lab2.runtimeconfig.json
+D:\Навчання\Третій курс\ОС\OS_lab2\OS_lab2\bin\Debug\net6.0\OS_lab2.dll
+D:\Навчання\Третій курс\ОС\OS_lab2\OS_lab2\bin\Debug\net6.0\OS_lab2.pdb
+D:\Навчання\Третій курс\ОС\OS_lab2\OS_lab2\obj\Debug\net6.0\OS_lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\Третій курс\ОС\OS_lab2\OS_lab2\obj\Debug\net6.0\OS_lab2.AssemblyInfoInputs.cache
+D:\Навчання\Третій курс\ОС\OS_lab2\OS_lab2\obj\Debug\net6.0\OS_lab2.AssemblyInfo.cs
+D:\Навчання\Третій курс\ОС\OS_lab2\OS_lab2\obj\Debug\net6.0\OS_lab2.csproj.CoreCompileInputs.cache
+D:\Навчання\Третій курс\ОС\OS_lab2\OS_lab2\obj\Debug\net6.0\OS_lab2.dll
+D:\Навчання\Третій курс\ОС\OS_lab2\OS_lab2\obj\Debug\net6.0\refint\OS_lab2.dll
+D:\Навчання\Третій курс\ОС\OS_lab2\OS_lab2\obj\Debug\net6.0\OS_lab2.pdb
+D:\Навчання\Третій курс\ОС\OS_lab2\OS_lab2\obj\Debug\net6.0\OS_lab2.genruntimeconfig.cache
+D:\Навчання\Третій курс\ОС\OS_lab2\OS_lab2\obj\Debug\net6.0\ref\OS_lab2.dll
